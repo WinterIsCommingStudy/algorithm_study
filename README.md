@@ -51,7 +51,7 @@
 
 #### 프로그래머스
 
-- Programmers/nattyKing/폴더명/문제명_분류.js
+- Programmers/seungbin/폴더명/문제명_분류.js
 - Programmers/k/폴더명/문제명_분류.js
 - Programmers/gangmin/폴더명/문제명_분류.js
 - Programmers/jung_hyeon/폴더명/문제명_분류.js
