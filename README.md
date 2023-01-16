@@ -53,8 +53,8 @@
 
 - Programmers/seungbin/폴더명/문제명_분류.js
 - Programmers/k/폴더명/문제명_분류.js
-- Programmers/gangmin/폴더명/문제명_분류.js
-- Programmers/jung_hyeon/폴더명/문제명_분류.js
+- Programmers/mini/폴더명/문제명_분류.js
+- Programmers/junghyeon/폴더명/문제명_분류.js
 
 
 ## 일정표
