@@ -9,6 +9,7 @@
 * 배열은 정렬되어 있는가?
 
 * 여분의 체육복을 가진 사람들(reserve)은 정말 여분을 가지고 있는가?
+<br>
 
 ### 2) 문제 풀이
 ```
@@ -77,6 +78,7 @@ num.sort((a, b) => b-a);  // 내림차순 정렬
 <br>
 
 #### (3) Object 정렬
+__Ex>__: 이름차오름차순 정렬
 ```
 const student = [
     { name : "재석", age : 21},
@@ -85,10 +87,60 @@ const student = [
     { name : "명수", age : 44}
 ];
 
-// 
 student.sort((a, b) => a.name < b.name ? -1 : a.name > b.name ? 1 : 0);
+```
+__Ex>__: 나이 오름차순 정렬
+```
+const student = [
+    { name : "재석", age : 21},
+    { name : "광희", age : 25},
+    { name : "형돈", age : 13},
+    { name : "명수", age : 44}
+];
+
+student.sort((a, b) => a[age] - b[age]);
+```
+
+☆ reference: https://dudmy.net/javascript/2015/11/16/javascript-sort/   
+
+<br>
+<hr>
+
+### 2) include()
+* __```includes(찾을 값, 검색을 시작할 인덱스)```__   
+
+
+   * 인덱스 값이 없을 경우, 전체를 찾는다
+
+__Ex>__
+```
+const array1 = [1, 2, 3];
+console.log(array1.includes(2, 2));  // false
+```
+<br>
+
+__Ex>__: 시작 인덱스가 배열 범위를 벗어난 숫자일 때
+* 시작 인덱스가 음수인 경우 0으로 취급되며, 배열의 전체에서 검색된다
+
+* 시작 인덱스가 배열의 길이보다 같거나 큰 경우는 false를 리턴다. 이 때는 배열을 검색하지 않는
+
+```
+console.log(array1.includes(2, -100));  // true
+console.log(array1.includes(2, 100));   // false
 ```
 
 <br>
+<hr>
 
-### 2) include()
+### 3) filter()
+* 배열에서 특정 값 지우기
+
+__Ex>__
+```
+let arr = ['a', 'b', 'b', 'c'];
+
+// 원소 'b' 삭제
+let arrFiltered = arr.filter((element) => element !== 'b');   // ['a', 'c']
+```
+
+☆ reference : https://hianna.tistory.com/489
