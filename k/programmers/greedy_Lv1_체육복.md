@@ -12,7 +12,30 @@
 
 ### 2) 문제 풀이
 ```
+function solution(n, lost, reserve) {
+    let newLost = lost.filter((x) => !reserve.includes(x)).sort((a,b) => a-b);
+    let newReserve = reserve.filter((x) => !lost.includes(x)).sort((a,b) => a-b);
+    
+    let answer = n-newLost.length;
 
+    newLost.map((lost) => {
+        // 1. 여분이 없을 때
+        if(newReserve.length === 0){
+            return;
+        }
+        // 2. 잃어버린 것보다 작은 사이즈가 있을 때
+        if(newReserve.includes(lost-1)) {
+            newReserve = newReserve.filter((r) => r !== lost-1); // 여분 사용
+            answer++;
+        }
+        // 3. 잃어버린 것보다 큰 사이즈가 있을 때
+        else if(newReserve.includes(lost+1)) {
+            newReserve = newReserve.filter((r) => r !== lost+1); // 여분 사용
+            answer++;
+        }
+    })
+    return answer;
+}
 ```
 
 <br>
