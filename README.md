@@ -61,7 +61,8 @@
 
 #### 1차 : 코딩테스트 고득점 Kit (프로그래머스)
 
-| **주차** | **폴더명**          | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
-| -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 1주차    | greedy              | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)                                                            | `진행 중`   |
+| **주차** | **폴더명** | **문제 1** | **문제 2** | **문제 3** | **진행 현황** |
+| - | - | - | - | - | - |
+| 1주차 | greedy | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | `완료` |
+| 2주차 | DP | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | `진행 중` |
 
