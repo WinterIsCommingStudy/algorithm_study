@@ -25,12 +25,12 @@ function solution(n, lost, reserve) {
         }
         // 2. 잃어버린 것보다 작은 사이즈가 있을 때
         if(newReserve.includes(lost-1)) {
-            newReserve = newReserve.filter((r) => r !== lost-1); // 여분 사용
+            newReserve = newReserve.filter((reserve) => reserve !== lost-1); // 여분 사용
             answer++;
         }
         // 3. 잃어버린 것보다 큰 사이즈가 있을 때
         else if(newReserve.includes(lost+1)) {
-            newReserve = newReserve.filter((r) => r !== lost+1); // 여분 사용
+            newReserve = newReserve.filter((reserve) => reserve !== lost+1); // 여분 사용
             answer++;
         }
     })
