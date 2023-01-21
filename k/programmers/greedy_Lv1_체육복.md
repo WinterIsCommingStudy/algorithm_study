@@ -62,6 +62,7 @@ const student = [
     { name : "명수", age : 44}
 ];
 
+// 
 student.sort((a, b) => a.name < b.name ? -1 : a.name > b.name ? 1 : 0);
 ```
 
