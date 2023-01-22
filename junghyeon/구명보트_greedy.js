@@ -25,3 +25,20 @@ function solution(people, limit) {
     }
     return count
 }
+
+
+// 효율성 통과 코드
+function solution(people, limit) {
+    let count = 0;
+    people = people.sort((a,b) => b-a)
+    let len = people.length;
+    for(let i = 0; i < len; i++) 
+    {
+        count+=1
+        let max = limit - people[i]
+        if(max >= people[len-1]) {
+            len--
+        }
+    }
+    return count
+}
