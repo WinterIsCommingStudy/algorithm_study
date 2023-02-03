@@ -5,6 +5,7 @@
 - 기간: 2023년 1월 18일 ~
 - 정기 회의: 토요일 오후 10시
 - 참고 사이트: [프로그래머스](https://programmers.co.kr/learn/challenges)
+- 참고 사이트: [알고리즘 강의](https://code.plus/course/43)
 - 언어: 자바스크립트
 
 ## 스터디 규칙 
