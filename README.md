@@ -68,5 +68,5 @@
 | 2주차 | - | Dynamic Programming | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | `완료` |
 | 3주차 | A | Dynamic Programming | [1로 만들기](https://www.acmicpc.net/problem/1463) | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | `완료` |
 | 3주차 | B | Dynamic Programming | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [RGB거리](https://www.acmicpc.net/problem/1149) | [동물원](https://www.acmicpc.net/problem/1309) | `완료` |
-| 4주차 | A | 브루트포 | [분해합](https://www.acmicpc.net/problem/2231) |  |  | `진행 중` |
-| 4주차 | B | 브루트포 | [분해합](https://www.acmicpc.net/problem/2231) |  |  | `진행 중` |
+| 4주차 | A | 브루트 포스 | [분해합](https://www.acmicpc.net/problem/2231) |  |  | `진행 중` |
+| 4주차 | B | 브루트 포스 | [분해합](https://www.acmicpc.net/problem/2231) |  |  | `진행 중` |
