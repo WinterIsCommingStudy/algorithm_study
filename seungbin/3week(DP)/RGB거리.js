@@ -33,6 +33,7 @@ function solution() {
  return answer
 }
 console.log(solution());
-
 //집의 수 만큼 반복문 둘린다
 //집의
+
+
