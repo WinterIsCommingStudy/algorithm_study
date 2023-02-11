@@ -70,3 +70,6 @@
 | 3주차 | B | Dynamic Programming | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [RGB거리](https://www.acmicpc.net/problem/1149) | [동물원](https://www.acmicpc.net/problem/1309) | `완료` |
 | 4주차 | A | 브루트 포스 | [분해합](https://www.acmicpc.net/problem/2231) |  |  | `진행 중` |
 | 4주차 | B | 브루트 포스 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |[타켓넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | `진행 중` |
+| 5주차 | A | 브루트 포스 | []() |  |  | `진행 중` |
+| 5주차 | B | DFS & BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [순열 사이클](https://www.acmicpc.net/problem/10451) | `진행 중` |
+
