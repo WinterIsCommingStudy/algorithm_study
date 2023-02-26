@@ -72,4 +72,5 @@
 | 4주차 | B | 브루트 포스 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |[타켓넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | `완료` |
 | 5주차 | A | 브루트 포스 | [완전제곱수](https://www.acmicpc.net/problem/1977) |  |  | `완료` |
 | 5주차 | B | DFS & BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [순열 사이클](https://www.acmicpc.net/problem/10451) | `완료` |
-| 6주차 | A | 스택, 큐 | [](https://www.acmicpc.net/problem/10773) | [프린터 큐](https://www.acmicpc.net/problem/1966) |  | `완료` |
+| 6주차 | A | 스택, 큐 | [제로](https://www.acmicpc.net/problem/10773) | [프린터 큐](https://www.acmicpc.net/problem/1966) |  | `진행중` |
+| 6주차 | B | 스택, 큐 |  |  |  | `진행중` |
