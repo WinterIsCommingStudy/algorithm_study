@@ -1,3 +1,5 @@
+// 백준 10828: 스택 (자료구조, 스택)
+
 const input = require('fs').readFileSync('/dev/stdin').toString().trim().split('\n');
 const len = parseInt(input.shift());
 
