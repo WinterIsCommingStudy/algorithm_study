@@ -63,13 +63,12 @@
 | ------- | ------- | -------- | --------- | --------- | --------- | ----------- |
 | 1주차 | - | greedy | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)    | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | `완료` |
 | 2주차 | - | Dynamic Programming | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | `완료` |
-| 3주차    | A        | Dynamic Programming | [1로 만들기](https://www.acmicpc.net/problem/1463)                            | [2×n 타일링](https://www.acmicpc.net/problem/11726)                         | [2×n 타일링 2](https://www.acmicpc.net/problem/11727)                       | `완료`        |
-| 3주차    | B        | Dynamic Programming | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)                     | [RGB거리](https://www.acmicpc.net/problem/1149)                             | [동물원](https://www.acmicpc.net/problem/1309)                              | `완료`        |
+| 3주차 | A | Dynamic Programming | [1로 만들기](https://www.acmicpc.net/problem/1463) | [2×n 타일링](https://www.acmicpc.net/problem/11726) | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | `완료` |
+| 3주차    | B        | Dynamic Programming | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)                     | [RGB거리](https://www.acmicpc.net/problem/1149) | [동물원](https://www.acmicpc.net/problem/1309)                              | `완료`        |
 | 4주차 | A | 브루트 포스 | [분해합](https://www.acmicpc.net/problem/2231) | | | `완료` |
 | 4주차 | B | 브루트 포스 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |[타켓넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | `완료` |
 | 5주차 | A | 브루트 포스 | [완전제곱수](https://www.acmicpc.net/problem/1977) | | | `완료` |
 | 5주차 | B | DFS & BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [순열 사이클](https://www.acmicpc.net/problem/10451) | `완료` |
-| 6주차 | A | 스택, 큐 | [제로](https://www.acmicpc.net/problem/10773) | [프린터 큐](https://www.acmicpc.net/problem/1966) | | `완료` |
-| 6주차 | B | 구현 & 스택, 큐 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | `완료` |
-| 7주차 | A | 스택, 큐 | [제로](https://www.acmicpc.net/problem/10773) | [프린터 큐](https://www.acmicpc.net/problem/1966) | | `진행중` |
-| 7주차 | B | 구현 & 스택, 큐 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | `진행중` |
+| 6주차 | A | 스택, 큐 | [제로](https://www.acmicpc.net/problem/10773) | [프린터 큐](https://www.acmicpc.net/problem/1966) | | `진행중` |
+| 6주차 | B | 구현 & 스택, 큐 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | `진행중` |
+| 7주차 | A | 스택, 큐 | [괄호](https://www.acmicpc.net/problem/9012) | [카드2](https://www.acmicpc.net/problem/2164) | | `진행중` |
