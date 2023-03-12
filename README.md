@@ -71,5 +71,7 @@
 | 5주차 | B | DFS & BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [순열 사이클](https://www.acmicpc.net/problem/10451) | `완료` |
 | 6주차 | A | 스택, 큐 | [제로](https://www.acmicpc.net/problem/10773) | [프린터 큐](https://www.acmicpc.net/problem/1966) | | `완료` |
 | 6주차 | B | 구현 & 스택, 큐 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | `완료` |
-| 7주차 | A | 스택, 큐 | [괄호](https://www.acmicpc.net/problem/9012) | [카드2](https://www.acmicpc.net/problem/2164) | | `진행중` |
-| 7주차 | B | 구현 & 스택, 큐 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | `진행중` |
+| 7주차 | A | 스택, 큐 | [괄호](https://www.acmicpc.net/problem/9012) | [카드2](https://www.acmicpc.net/problem/2164) | | `완료` |
+| 7주차 | B | 구현 & 스택, 큐 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | `` |
+| 8주차 | A | 정렬 | [괄호](https://www.acmicpc.net/problem/9012) | [카드2](https://www.acmicpc.net/problem/2164) | | `진행중` |
+| 8주차 | B | 정렬 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | `진행중` |
