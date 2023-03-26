@@ -75,5 +75,7 @@
 | 7주차 | B | 구현 & 스택, 큐 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | `완료` |
 | 8주차 | A | 정렬 | [ATM](https://www.acmicpc.net/problem/11399) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | | `완료` |
 | 8주차 | B | 정렬 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | `완료` |
-| 9주차 | A | 병합 정렬 | [병합 정렬1](https://www.acmicpc.net/problem/24060) | [병합 정렬2](https://www.acmicpc.net/problem/24061) | [병합 정렬3](https://www.acmicpc.net/problem/24062) | `진행중` |
-| 9주차 | B | 퀵 정렬 | [퀵 정렬1](https://www.acmicpc.net/problem/24090) | [퀵 정렬2](https://www.acmicpc.net/problem/24091) | [퀵 정렬3](https://www.acmicpc.net/problem/24092) | `진행중` |
+| 9주차 | A | 병합 정렬 | [병합 정렬1](https://www.acmicpc.net/problem/24060) | [병합 정렬2](https://www.acmicpc.net/problem/24061) | [병합 정렬3](https://www.acmicpc.net/problem/24062) | `완료` |
+| 9주차 | B | 퀵 정렬 | [퀵 정렬1](https://www.acmicpc.net/problem/24090) | [퀵 정렬2](https://www.acmicpc.net/problem/24091) | [퀵 정렬3](https://www.acmicpc.net/problem/24092) | `완료` |
+| 10주차 | A | 정렬 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | | `진행중` |
+| 8주차 | B | 정렬 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | `진행중` |
