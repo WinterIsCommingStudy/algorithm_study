@@ -77,5 +77,6 @@
 | 8주차 | B | 정렬 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | `완료` |
 | 9주차 | A | 병합 정렬 | [병합 정렬1](https://www.acmicpc.net/problem/24060) | [병합 정렬2](https://www.acmicpc.net/problem/24061) | [병합 정렬3](https://www.acmicpc.net/problem/24062) | `완료` |
 | 9주차 | B | 퀵 정렬 | [퀵 정렬1](https://www.acmicpc.net/problem/24090) | [퀵 정렬2](https://www.acmicpc.net/problem/24091) | [퀵 정렬3](https://www.acmicpc.net/problem/24092) | `완료` |
-| 10주차 | A | 정렬 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | | `진행중` |
-| 10주차 | B | 정렬 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | `진행중` |
+| 10주차 | A | 정렬 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | | `완료` |
+| 10주차 | B | 정렬 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | `완료` |
+| 11주차 | A | 브루트포스 | [분해합](https://www.acmicpc.net/problem/2231) | [사탕 게임](https://www.acmicpc.net/problem/3085) |  | `완료` |
