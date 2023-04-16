@@ -80,3 +80,4 @@
 | 10주차 | A | 정렬 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | | `완료` |
 | 10주차 | B | 정렬 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | `완료` |
 | 11주차 | A | 브루트포스 | [분해합](https://www.acmicpc.net/problem/2231) | [사탕 게임](https://www.acmicpc.net/problem/3085) |  | `완료` |
+| 11주차 | B | 브루트포스 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | `진행중` | | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |  | `진행중` |
