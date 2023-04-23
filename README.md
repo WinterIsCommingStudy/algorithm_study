@@ -79,5 +79,6 @@
 | 9주차 | B | 퀵 정렬 | [퀵 정렬1](https://www.acmicpc.net/problem/24090) | [퀵 정렬2](https://www.acmicpc.net/problem/24091) | [퀵 정렬3](https://www.acmicpc.net/problem/24092) | `완료` |
 | 10주차 | A | 정렬 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | | `완료` |
 | 10주차 | B | 정렬 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | `완료` |
-| 11주차 | A | 브루트포스 | [블랙잭](https://www.acmicpc.net/problem/2798) | [사탕 게임](https://www.acmicpc.net/problem/3085) |  | `잔행중` |
-| 11주차 | B | 브루트포스 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | `진행중` |
+| 11주차 | A | 브루트포스 | [블랙잭](https://www.acmicpc.net/problem/2798) | [사탕 게임](https://www.acmicpc.net/problem/3085) |  | `완료` |
+| 11주차 | B | 브루트포스 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | `완료` |
+| 12주차 | A | DFS와 BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [데스 나이트](https://www.acmicpc.net/problem/16948) | | `진행중` |
