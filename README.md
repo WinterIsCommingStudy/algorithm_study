@@ -82,5 +82,5 @@
 | 11주차 | A | 브루트포스 | [블랙잭](https://www.acmicpc.net/problem/2798) | [사탕 게임](https://www.acmicpc.net/problem/3085) |  | `완료` |
 | 11주차 | B | 브루트포스 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | `완료` |
 | 12주차 | A,B | DFS와 BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [데스 나이트](https://www.acmicpc.net/problem/16948) | | `완료` |
-| 13주차 | A,B | dfs bfs | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |[타켓넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | `완` |
-| 14주차 | A,B | 해 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |[의](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | `진행중` |
+| 13주차 | A,B | dfs bfs | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |[타켓넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | `완료` |
+| 14주차 | A,B | 해시 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | `진행중` |
