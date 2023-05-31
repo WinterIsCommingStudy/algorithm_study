@@ -1,11 +1,21 @@
-5
-ZG508OK
-PU305A
-RI604B
-ZG206A
-ZG232ZF
-PU305A
-ZG232ZF
-ZG206A
-ZG508OK
-RI604B
+16 4
+noj.am IU
+acmicpc.net UAENA
+startlink.io THEKINGOD
+google.com ZEZE
+nate.com VOICEMAIL
+naver.com REDQUEEN
+daum.net MODERNTIMES
+utube.com BLACKOUT
+zum.com LASTFANTASY
+dreamwiz.com RAINDROP
+hanyang.ac.kr SOMEDAY
+dhlottery.co.kr BOO
+duksoo.hs.kr HAVANA
+hanyang-u.ms.kr OBLIVIATE
+yd.es.kr LOVEATTACK
+mcc.hanyang.ac.kr ADREAMER
+startlink.io
+acmicpc.net
+noj.am
+mcc.hanyang.ac.kr
