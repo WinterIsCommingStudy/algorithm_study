@@ -16,6 +16,7 @@ function solution(K, students) {
       enroll.set(student, i);
     }
   });
+
   let arr = [];
   for (const [a] of enroll) {
     arr.push(a);

@@ -18,7 +18,7 @@ function solution(tunnelIn, tunnelOut) {
   let cnt = 0;
   for (const [exitCarName, exitIndex] of exitCar) {
     const [firstValue] = enterCar.values();
-
+    console.log(firstValue);
     if (exitIndex > firstValue) {
       cnt++;
     }
