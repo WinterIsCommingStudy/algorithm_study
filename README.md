@@ -86,4 +86,4 @@
 | 14주차 | A,B | 해시 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | `완료` |
 | 15주차 | A,B | 해시 | [추월](https://www.acmicpc.net/problem/2002) |[비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [수강신청](https://www.acmicpc.net/problem/13414) | `완료` |
 | 16주차 | A,B | 그리디 | [동전0](https://www.acmicpc.net/problem/11047) |[보석도둑](https://www.acmicpc.net/problem/1202) | [행렬](https://www.acmicpc.net/problem/1080) | `완료` |
-| 17주차 | A,B | 우선순위큐 | [최대 힙](https://www.acmicpc.net/problem/11279) |[최소 힙](https://www.acmicpc.net/problem/1927) | `진행중` |
+| 17주차 | A,B | 우선순위큐 | [최대 힙](https://www.acmicpc.net/problem/11279) |[최소 힙](https://www.acmicpc.net/problem/1927)| | `진행중` |
