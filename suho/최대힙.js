@@ -78,6 +78,7 @@ const input = fs.readFileSync("suho/input.txt").toString().trim("").split("\n");
 
 const N = input.shift();
 const X = input.map(Number);
+
 function maxHeap(value) {
   const arr = value;
   let result = [];
@@ -88,6 +89,7 @@ function maxHeap(value) {
       heap.pushHeap(x);
     }
   });
+  console.log(result);
   return result.join("\n");
 }
 
