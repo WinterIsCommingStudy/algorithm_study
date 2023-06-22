@@ -87,4 +87,5 @@
 | 15주차 | A,B | 해시 | [추월](https://www.acmicpc.net/problem/2002) |[비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [수강신청](https://www.acmicpc.net/problem/13414) | `완료` |
 | 16주차 | A,B | 그리디 | [동전0](https://www.acmicpc.net/problem/11047) |[보석도둑](https://www.acmicpc.net/problem/1202) | [행렬](https://www.acmicpc.net/problem/1080) | `완료` |
 | 17주차 | A,B | 우선순위큐 | [최대 힙](https://www.acmicpc.net/problem/11279) |[최소 힙](https://www.acmicpc.net/problem/1927)| | `완료` |
-| 18주차 | A,B |  | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)| [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | `진행중` |
+| 18주차 | A,B | 카카오 기출 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)| [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | `완료` |
+| 19주차 | A,B | 카카오 기출 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)| [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | `진행중` |
