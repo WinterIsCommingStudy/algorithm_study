@@ -1,13 +1,15 @@
 function solution(s) {
-  const answer = [];
-  s.slice(2, s.length - 2)
-    .split("},{")
-    .map((str) => str.split(",").map(Number))
-    .sort((a, b) => a.length - b.length)
-    .forEach((arr) => {
-      arr.forEach((v) => {
-        if (!answer.includes(v)) answer.push(v);
-      });
-    });
-  return answer;
+    const answer = [];
+    const tuple = s.slice(2, -2)
+                 .split("},{")
+                 .sort((a,b) => a.length - b.length)
+                 .map((item) => item.split(",").map(Number))
+                 .map((arr) => {
+                     arr.map((num) => {
+                         if(!answer.includes(num)) {
+                             answer.push(num)
+                         }
+                     })
+                 });
+    return answer;
 }
