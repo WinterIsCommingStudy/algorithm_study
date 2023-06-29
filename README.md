@@ -88,4 +88,5 @@
 | 16주차 | A,B | 그리디 | [동전0](https://www.acmicpc.net/problem/11047) |[보석도둑](https://www.acmicpc.net/problem/1202) | [행렬](https://www.acmicpc.net/problem/1080) | `완료` |
 | 17주차 | A,B | 우선순위큐 | [최대 힙](https://www.acmicpc.net/problem/11279) |[최소 힙](https://www.acmicpc.net/problem/1927)| | `완료` |
 | 18주차 | A,B | 카카오 기출 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)| [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | `완료` |
-| 19주차 | A,B | 카카오 기출 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)| [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | `진행중` |
+| 19주차 | A,B | 카카오 기출 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)| [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | 완료` |
+| 20주차 | A,B | 카카오 기출 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) |[[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)| [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | `진행중` |
