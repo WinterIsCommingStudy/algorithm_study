@@ -14,11 +14,9 @@ function solution(s) {
 
   let a = [...tupleHash];
   let b = a.sort((a, b) => b[1] - a[1]); // value값 기준 내림차순정렬
-
   b.map((x) => {
     answer.push(x[0]);
   });
-
   return answer;
 }
 
