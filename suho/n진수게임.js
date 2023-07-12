@@ -3,21 +3,20 @@ function solution(n, t, m, p) {
   let i = 0;
   let turn = 1;
   let result = [];
-
   let decimal = [];
-  const a = (i) => {
-    const b = i.toString(n).split("");
-    b.map((i) => {
+  const decimalArray = (i) => {
+    const array = i.toString(n).split("");
+    array.map((i) => {
       decimal.push(i);
     });
-    return b;
+    return array;
   };
   let myTurn = 0;
 
   let num = 1;
   while (t > result.length) {
     if (decimal.length < 1) {
-      decimal = a(i);
+      decimal = decimalArray(i);
       i++;
     }
     if (turn === p || myTurn === turn) {
