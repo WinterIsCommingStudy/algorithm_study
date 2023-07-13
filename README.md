@@ -91,5 +91,4 @@
 | 19주차 | A,B | 카카오 기출 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)| [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | `완료` |
 | 20주차 | A,B | 카카오 기출 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) |[[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)| [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | `완료` |
 | 21주차 | A,B | 카카오 기출 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | `완료` |
-| 22주차 | A,B | 카카오 기출 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |[[1차] 프렌즈4블록
-](https://school.programmers.co.kr/learn/courses/30/lessons/17679)| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | `진행중` |
+| 22주차 | A,B | 카카오 기출 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |[[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | `진행중` |
