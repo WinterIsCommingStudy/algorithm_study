@@ -12,7 +12,6 @@ function solution(n, t, m, p) {
     return array;
   };
   let myTurn = 0;
-
   let num = 1;
   while (t > result.length) {
     if (decimal.length < 1) {

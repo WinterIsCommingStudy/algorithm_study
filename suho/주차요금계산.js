@@ -61,10 +61,10 @@ function solution(fees, records) {
     }
   };
 
-  while (carIn.length >= 0) {
-    if (carIn.length === 0) {
-      break;
-    }
+  while (carIn.length > 0) {
+    // if (carIn.length === 0) {
+    //   break;
+    // }
     let carInTime = parkingTime(carIn, 0);
     let carInNum = parkingCarNumber(carIn, 0);
 
@@ -93,9 +93,9 @@ function solution(fees, records) {
   }
   let hashArray = [...carHash];
   let hashSort = hashArray.sort((a, b) => a[0] - b[0]); // value값 기준 내림차순정렬
-
   const newCarHash = new Map(hashSort);
   newCarHash.forEach(logMapElements);
+  console.log(answer);
   return answer;
 }
 //  const [defaultTime, baseRate, unitTime, unitRate] = fees;
