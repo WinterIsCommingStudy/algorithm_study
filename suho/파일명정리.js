@@ -41,10 +41,11 @@ function solution(files) {
   answer.map((i) => {
     result.push(i[0]);
   });
+  console.log(result);
   return result;
 }
 
-solution([" . - a . b -0.03.21", "O49qcGPHuRLR5FEfoO00321"]);
+solution([" . - oc . b -0.03.21", "Oa49qcGPHuRLR5FEfoO00321"]);
 
 // solution([
 //   "img12.png",
