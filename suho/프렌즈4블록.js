@@ -1,68 +1,71 @@
 function solution(m, n, board) {
   var answer = 0;
 
-  const boardReverse = board.reverse();
-
-  const block = boardReverse.map((b) => {
+  const blockArr = board.map((b) => {
     return b.split("");
   });
 
-  for (let i = 0; i < m - 1; i++) {
-    for (let j = 0; j < n; j++) {
-      console.log(block);
-      if (
-        block[i][j] === block[i + 1][j] &&
-        block[i][j + 1] === block[i + 1][j + 1] &&
-        block[i][j] === block[i][j + 1] &&
-        j + 1 < n
-      ) {
-        if (block[i][j + 2] === block[i + 1][j + 2]) {
-          block[i][j] = 0;
-          block[i + 1][j] = 0;
-          block[i][j + 1] = 0;
-          block[i + 1][j + 1] = 0;
-          block[i][j + 2] = 0;
-          block[i + 1][j + 2] = 0;
-        } else {
-          block[i][j] = 0;
-          block[i + 1][j] = 0;
-          block[i][j + 1] = 0;
-          block[i + 1][j + 1] = 0;
+  let arrI = [];
+  let arrJ = [];
+  function blockCheck(block) {
+    let blockArrI = [];
+    let blockArrJ = [];
+    for (let i = 0; i < m - 1; i++) {
+      for (let j = 0; j < n; j++) {
+        if (
+          block[i][j] === block[i][j + 1] &&
+          block[i][j] === block[i + 1][j] &&
+          block[i][j + 1] === block[i + 1][j + 1] &&
+          block[i][j + 1] !== undefined &&
+          block[i][j] !== 0 &&
+          block[i][j + 1] !== 0
+        ) {
+          blockArrI.push(i);
+          blockArrJ.push(j);
         }
+        arrI = blockArrI;
+        arrJ = blockArrJ;
       }
+    }
+    if (!arrI.length) {
+      return;
+    }
+    arrChange(arrI, arrJ, block);
+  }
 
-      if (block[i][j] === 0) {
-        if (block[i - 1] && block[i - 1][j] === 0) {
-          block[i - 1][j] = block[i + 1][j];
-          block[i + 1][j] = 0;
-          if (
-            block[i - 2] &&
-            block[i - 2][j] === block[i - 1][j] &&
-            block[i - 2][j - 1] === block[i - 1][j - 1] &&
-            block[i - 2][j - 1]
-          ) {
-            block[i - 2][j - 1] = 0;
-            block[i - 1][j - 1] = 0;
-            block[i - 2][j] = 0;
-            block[i - 1][j] = 0;
-          } else if (
-            block[i - 2] &&
-            block[i - 2][j] === block[i - 1][j] &&
-            block[i - 2][j + 1] === block[i - 1][j + 1]
-          ) {
-            block[i - 2][j] = 0;
-            block[i - 1][j] = 0;
-            block[i - 2][j + 1] = 0;
-            block[i - 1][j + 1] = 0;
+  function arrChange(arri, arrj, block) {
+    for (let i = 0; i < arri.length; i++) {
+      block[arri[i]][arrj[i]] = 0;
+      block[arri[i] + 1][arrj[i]] = 0;
+      block[arri[i]][arrj[i] + 1] = 0;
+      block[arri[i] + 1][arrj[i] + 1] = 0;
+    }
+    blockReposition(block);
+  }
+
+  function blockReposition(block) {
+    for (let j = 0; j < n; j++) {
+      for (let i = m - 1; i > 0; i--) {
+        if (block[i][j] === 0) {
+          for (let k = i; k >= 0; k--) {
+            if (block[k][j] !== 0) {
+              block[i][j] = block[k][j];
+              block[k][j] = 0;
+              break;
+            }
           }
         }
       }
     }
+    blockCheck(block);
   }
-  console.log(block);
 
+  blockCheck(blockArr);
+  const result = blockArr.map((row) => row.join("")).join(""); // 배열의 각 행을 문자열로 만들고, \n으로 구분하여 결합
+  const arr = result.replace(/0/g, "");
+  answer = result.length - arr.length;
   return answer;
 }
 
-solution(4, 5, ["CCBDE", "AAADE", "AAABF", "CCBBF"]);
+solution(6, 6, ["TTTANT", "RRFACC", "RRRFCC", "TRRRAA", "TTMMMF", "TMMTTJ"]);
 // solution(4, 5, ["CCDCE", "CCAAB", "CCAAB", "CCFFF"]);
