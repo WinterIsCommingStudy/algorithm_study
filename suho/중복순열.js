@@ -16,4 +16,4 @@ function solution(n, m) {
   return answer;
 }
 
-console.log(solution(3, 2));
+console.log(solution(5, 3));
