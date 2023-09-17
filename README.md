@@ -94,4 +94,5 @@
 | 22주차 | A,B | 카카오 기출 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |[[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)| [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | `완료` |
 | 23주차 | A,B | 카카오 기출 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) |[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)| | `완료` |
 | 24주차 | A,B | 카카오 기출 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)| | `완료` |
-| 25주차 | A,B | 카카오 기출 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)| | `진행중` |
+| 25주차 | A,B | 카카오 기출 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)| | `완료` |
+| 26주차 | A,B | 카카오 기출 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | `진행중` |
