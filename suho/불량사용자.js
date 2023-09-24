@@ -29,6 +29,7 @@ function solution(user_id, banned_id) {
   }
 
   DFS(0, []);
+
   return answer.size;
 }
 

@@ -30,8 +30,8 @@ function solution(survey, choices) {
       );
     }
   }
-
   let personalityMapArr = [...personalityMap];
+  console.log(personalityMapArr);
 
   const typeInspectSort = (arrFir, arrSec) => {
     let typeInspectArr = [arrFir, arrSec];
