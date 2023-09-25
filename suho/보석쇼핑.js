@@ -77,6 +77,7 @@ function solution(gem) {
       if (rt - lt < minLength) {
         minLength = rt - lt;
         keyArr = [lt + 1, rt];
+        console.log(gemHash);
       }
       if (gemHash.get(gem[lt]) > 1) {
         gemHash.set(gem[lt], gemHash.get(gem[lt]) - 1);
