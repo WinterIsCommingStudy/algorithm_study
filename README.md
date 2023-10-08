@@ -96,4 +96,5 @@
 | 24주차 | A,B | 카카오 기출 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)| | `완료` |
 | 25주차 | A,B | 카카오 기출 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)| | `완료` |
 | 26주차 | A,B | 카카오 기출 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | `완료` |
-| 27주차 | A,B | 카카오 기출 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | `진행중` |
+| 27주차 | A,B | 카카오 기출 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | `완료` |
+| 28주차 | A,B | 카카오 기출 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | `진행중` |
