@@ -97,4 +97,6 @@
 | 25주차 | A,B | 카카오 기출 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)| | `완료` |
 | 26주차 | A,B | 카카오 기출 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | | `완료` |
 | 27주차 | A,B | 카카오 기출 | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | | | `완료` |
-| 28주차 | A,B | 카카오 기출 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | `진행중` |
+| 28주차 | A,B | 카카오 기출 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | `완료` |
+| 29주차 | A,B | 카카오 기출 | [수식최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | | | `진행중` |
+
