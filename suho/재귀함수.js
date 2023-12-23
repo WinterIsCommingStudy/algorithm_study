@@ -22,7 +22,7 @@ function solution(n) {
     } else {
       console.log(n);
       DFS(n - 1);
-      console.log(n);
+      // console.log(n);
     }
   }
   DFS(n);

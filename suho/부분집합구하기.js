@@ -20,6 +20,7 @@ function solution(n, v) {
     }
   }
   DFS(v);
+  console.log(answer);
   return answer.length;
 }
 

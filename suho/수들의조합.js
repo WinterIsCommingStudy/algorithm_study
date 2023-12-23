@@ -39,11 +39,11 @@ function solution(arr, n, m) {
     } else {
       for (let i = S; i < arr.length; i++) {
         tmp[L] = arr[i];
+        console.log(tmp);
         DFS(L + 1, i + 1, sum + arr[i]);
       }
     }
   }
-
   DFS(0, 0, 0);
 
   return answer;
